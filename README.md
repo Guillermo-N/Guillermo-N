@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guillermo-N
-- 👀 I’m interested in Linux, Blockchain && Cryptography
+- 👀 I’m interested in Linux, Data-Science && Cryptography
 - 🌱 I’m currently studying a master in (Data Science and Secure Environments)
 
 <!---
